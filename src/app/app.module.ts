@@ -6,6 +6,7 @@ import { HttpModule } from '@angular/http';
 // Services
 import { YoutubeService } from './services/youtube.service';
 
+// Components
 import { AppComponent } from './app.component';
 import { HomeComponent } from './components/home/home.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
